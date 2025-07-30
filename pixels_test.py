@@ -59,9 +59,9 @@ if __name__ == "__main__":
     # Method 1: Specify files manually
     raw_files = [
         '_DSC3624.ARW',
-        # '_DSC3625.ARW',
-        # '_DSC3626.ARW',
-        # '_DSC3627.ARW',
+        '_DSC3625.ARW',
+        '_DSC3626.ARW',
+        '_DSC3627.ARW',
         # Add more files as needed
     ]
 
